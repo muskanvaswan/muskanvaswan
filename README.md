@@ -39,10 +39,12 @@ A software that allows attendance through face Recognition.
 - [My tiny npm package: to convert html forms to json and back](https://www.npmjs.com/package/forms-dynamically)
 - [Ecommerce Website in Django For custom Merch](https://merch-commerce.herokuapp.com/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Contact
 
 [Email](mailto:muskanvaswan@gmail.com), [LinkedIn](https://www.linkedin.com/in/muskan-vaswan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FQpdlv5fQ12Ru4DkW2TysA%3D%3D)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
