@@ -22,9 +22,16 @@ However, I have been into coding since I was much younger, so there is the occas
 
 # Languages and Frameworks
 
-- Python, C++, C, JavaScript
-- CSS, HTML, Jinja
-- Django, Flask, React, Django Rest Frameworks
+- Python
+- C++, C
+- JavaScript
+- CSS, HTML 
+- Bootstrap, Jinja
+- Django
+- Flask
+- React 
+- Django Rest Frameworks
+- OpenCV
 
 # Currently Active Projects
 
