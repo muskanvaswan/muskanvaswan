@@ -49,14 +49,14 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162576%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162581%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-🌆 Daytime    91 commits     ████████░░░░░░░░░░░░░░░░░   32.62% 
-🌃 Evening    130 commits    ███████████░░░░░░░░░░░░░░   46.59% 
+🌆 Daytime    93 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    128 commits    ███████████░░░░░░░░░░░░░░   45.88% 
 🌙 Night      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49%
 
 ```
