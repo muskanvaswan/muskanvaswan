@@ -68,13 +68,15 @@ A software that allows attendance through face Recognition.
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               59 mins             █████████████████████░░░░   85.33% 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+muskanvaswan             1 hr 10 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 10 mins        █████████████████████████   100.0%
 
 ```
 
