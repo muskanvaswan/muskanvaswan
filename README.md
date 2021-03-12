@@ -32,6 +32,8 @@ However, I have been into coding since I was much younger, so there is the occas
 - React 
 - Django Rest Frameworks
 - OpenCV
+- Next
+- Material UI
 
 # Currently Active Projects
 
