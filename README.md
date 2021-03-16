@@ -37,9 +37,8 @@ However, I have been into coding since I was much younger, so there is the occas
 
 # Currently Active Projects
 
-#### Circuits
-A purely react based application (my first), that helps in calculating values in various circuit connections.
-[View Here](https://muskanvaswan.github.io/circuits')
+#### next-material-ui
+An entire frontend template made with next and material UI for a complete E-commerce website.
 
 #### Recognific
 A software that allows attendance through face Recognition.
@@ -47,6 +46,8 @@ A software that allows attendance through face Recognition.
 # Others
 - [My tiny npm package: to convert html forms to json and back](https://www.npmjs.com/package/forms-dynamically)
 - [Ecommerce Website in Django For custom Merch](https://merch-commerce.herokuapp.com/)
+- [A Sorting Visualizer in React](https://muskanvaswan.github.io/SortingVisualizer/)
+- [My first React project: A circuit calcultato](https://muskanvaswan.github.io/circuits)
 
 # More on my Coding Habits
 
