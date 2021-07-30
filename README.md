@@ -35,6 +35,11 @@ However, I have been into coding since I was much younger, so there is the occas
 - Next
 - Material UI
 
+# Learning and Messing with 
+
+- Scala 
+- Lisp
+
 # Currently Active Projects
 
 #### next-material-ui
