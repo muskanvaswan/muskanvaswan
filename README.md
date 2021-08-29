@@ -11,7 +11,7 @@
 
 # Introduction
 Hi I'm Muskan Vaswan.
-I'm an 18 year old,
+I'm an 19 year old,
 freshman in College,
 Pursuing a Bachelor's in Technology, for Computer Science.
 
@@ -34,6 +34,7 @@ However, I have been into coding since I was much younger, so there is the occas
 - OpenCV
 - Next
 - Material UI
+- React Native
 
 # Learning and Messing with 
 
