@@ -15,7 +15,7 @@ I'm an 19 year old,
 freshman in College,
 Pursuing a Bachelor's in Technology, for Computer Science.
 
-More Importantly: I'm a Self Taught, web developer and have been one for around an year.
+More Importantly: I'm a Self Taught, web developer and have been one for around 2 years.
 
 However, I have been into coding since I was much younger, so there is the occasional appearance of algorithms, AI on my profile too. I also love C++, but mostly end up working with Python
 
