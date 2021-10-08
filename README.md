@@ -79,15 +79,16 @@ A software that allows attendance through face Recognition.
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 7 mins        █████████████████████████   100.0%
+JavaScript               9 hrs 11 mins       █████████████████████████   99.91% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        █████████████████████████   100.0%
+Mac                      9 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/10/2021
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
 
 # Contact
