@@ -58,17 +58,17 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422736%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422849%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-🌆 Daytime    430 commits    ████████░░░░░░░░░░░░░░░░░   34.13% 
-🌃 Evening    563 commits    ███████████░░░░░░░░░░░░░░   44.68% 
-🌙 Night      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.38%
+🌞 Morning    111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
+🌆 Daytime    433 commits    ████████░░░░░░░░░░░░░░░░░   34.28% 
+🌃 Evening    563 commits    ███████████░░░░░░░░░░░░░░   44.58% 
+🌙 Night      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
 
 ```
 
