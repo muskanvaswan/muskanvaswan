@@ -58,9 +58,11 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-427471%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--843%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -79,18 +81,17 @@ A software that allows attendance through face Recognition.
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 27 mins       ███████████████░░░░░░░░░░   62.15% 
-JSX                      1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   31.36% 
-Assembly                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
+JavaScript               1 hr 57 mins        ██████████████░░░░░░░░░░░   56.42% 
+JSX                      1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   43.16% 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 💻 Operating System: 
-Mac                      5 hrs 33 mins       █████████████████████████   100.0%
+Mac                      3 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 
 # Contact
