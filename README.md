@@ -58,6 +58,8 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--836%20Thousand%20lines%20of%20code-blue)
@@ -65,10 +67,10 @@ A software that allows attendance through face Recognition.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    88 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-🌆 Daytime    420 commits    ████████░░░░░░░░░░░░░░░░░   33.84% 
-🌃 Evening    577 commits    ███████████░░░░░░░░░░░░░░   46.49% 
-🌙 Night      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.57%
+🌞 Morning    88 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+🌆 Daytime    423 commits    ████████░░░░░░░░░░░░░░░░░   34.0% 
+🌃 Evening    577 commits    ███████████░░░░░░░░░░░░░░   46.38% 
+🌙 Night      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
 
 ```
 
@@ -87,7 +89,7 @@ Mac                      7 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 02/04/2022 00:47:00 UTC
+ Last Updated on 02/04/2022 08:21:51 UTC
 <!--END_SECTION:waka-->
 
 # Contact
