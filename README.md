@@ -58,7 +58,7 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -89,7 +89,7 @@ Mac                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/05/2022 00:56:53 UTC
+ Last Updated on 17/05/2022 08:20:43 UTC
 <!--END_SECTION:waka-->
 
 # Contact
