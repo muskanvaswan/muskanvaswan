@@ -58,19 +58,19 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-🌆 Daytime    413 commits    █████████░░░░░░░░░░░░░░░░   36.58% 
-🌃 Evening    513 commits    ███████████░░░░░░░░░░░░░░   45.44% 
-🌙 Night      100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.86%
+🌞 Morning    103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+🌆 Daytime    389 commits    █████████░░░░░░░░░░░░░░░░   37.37% 
+🌃 Evening    471 commits    ███████████░░░░░░░░░░░░░░   45.24% 
+🌙 Night      78 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49%
 
 ```
 
@@ -89,7 +89,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/06/2022 16:29:07 UTC
+ Last Updated on 10/06/2022 00:54:13 UTC
 <!--END_SECTION:waka-->
 
 # Contact
