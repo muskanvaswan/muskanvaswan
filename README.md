@@ -60,11 +60,11 @@ A software that allows attendance through face Recognition.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
@@ -75,7 +75,7 @@ A software that allows attendance through face Recognition.
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -89,7 +89,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2022 08:21:11 UTC
+ Last Updated on 12/06/2022 16:21:38 UTC
 <!--END_SECTION:waka-->
 
 # Contact
