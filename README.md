@@ -58,38 +58,14 @@ A software that allows attendance through face Recognition.
 # More on my Coding Habits
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-🌆 Daytime    345 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
-🌃 Evening    400 commits    ██████████░░░░░░░░░░░░░░░   43.48% 
-🌙 Night      75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
-
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--826%20Thousand%20lines%20of%20code-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 04/09/2022 01:09:32 UTC
+ Last Updated on 04/09/2022 08:19:43 UTC
 <!--END_SECTION:waka-->
 
 # Contact
